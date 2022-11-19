@@ -79,7 +79,7 @@ public class Operators {
 
         a = b = c = d;
 
-//        System.out.println("A " + a + " B " + b + " C " + c + " D " + d);
+        System.out.println("A " + a + " B " + b + " C " + c + " D " + d);
 
         int CakePrice = 150;
         CakePrice = CakePrice +5;

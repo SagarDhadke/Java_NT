@@ -41,4 +41,5 @@ public class Method {
         float result = firstValue / secondValue;
             return  result;
     }
+
 }

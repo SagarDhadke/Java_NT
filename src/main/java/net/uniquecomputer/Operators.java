@@ -82,9 +82,9 @@ public class Operators {
 //        System.out.println("A " + a + " B " + b + " C " + c + " D " + d);
 
         int CakePrice = 150;
-//        CakePrice = CakePrice +5;
+        CakePrice = CakePrice +5;
         CakePrice += 5;
-      //  System.out.println("Cake Price With GST :" + CakePrice);
+        System.out.println("Cake Price With GST :" + CakePrice);
 
 
 

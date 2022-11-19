@@ -19,6 +19,12 @@ public class Comments {
 
         // Java Documents Comments
 
+        /**
+         * This is Java Documents comments
+         * example
+         * Java 8
+         * Java Jdk , Sdk */
+
         // Comments Execution Ignored by compiler
 
         //Print JAVA COMMENTS

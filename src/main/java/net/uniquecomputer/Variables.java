@@ -1,6 +1,6 @@
 package net.uniquecomputer;
 
-public class Animal {
+public class Variables {
     public static void main(String[] args) {
 
         System.out.println("Hello Animal");

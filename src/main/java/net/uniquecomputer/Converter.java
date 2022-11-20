@@ -1,5 +1,7 @@
 package net.uniquecomputer;
 
+import java.util.Scanner;
+
 public class Converter {
     public static void main(String[] args) {
 
@@ -14,7 +16,7 @@ public class Converter {
             System.out.println(celsius);
 
             celsius = celsius +32;
-            System.out.println(5 + "C=> " + celsius + "°F"+ " Fahrenheit");
+            System.out.println("C=> " + celsius + "°F"+ " Fahrenheit");
 
 
 
@@ -47,6 +49,24 @@ public class Converter {
         System.out.println(kelvin);
 
         System.out.println(32 + "°F" + kelvin);
+
+
+        // Own Practice Code with input fields
+        // CONVERT Temperature celsius to fahrenheit
+
+        Scanner scanner = new Scanner(System.in);
+        float CelsiusInput = scanner.nextFloat();
+        System.out.println(CelsiusInput);
+
+        CelsiusInput = CelsiusInput *9;
+        System.out.println(CelsiusInput);
+
+        CelsiusInput = CelsiusInput /5;
+        System.out.println(CelsiusInput);
+
+        CelsiusInput = CelsiusInput +32;
+        System.out.println(5 + "C=> " + CelsiusInput + "°F"+ " Fahrenheit");
+
         
 
 

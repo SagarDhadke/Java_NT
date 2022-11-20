@@ -20,7 +20,7 @@ public class DataTypes {
         char myChar = 'A';
         System.out.println(myChar);
 
-        //Integer
+
         //Byte => The byte data type can Store whole numbers from -128 to 127
 
        byte number = -128;
@@ -31,6 +31,7 @@ public class DataTypes {
         short myShort = 32767;
         System.out.println(myShort);
 
+        //Integer
         //Int => The int data type can Store whole numbers from -2,147,483,648 to 2,147,483,647
 
        int myInt = 59999;

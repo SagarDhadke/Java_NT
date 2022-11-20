@@ -26,7 +26,7 @@ public class Variables {
         int value = 140;
 
         int secoundvalue; // Declaration
-        secoundvalue = 200; // Intialization
+        secoundvalue = 200; // Initialization
         int _thirdvalue = 300;
         int $fourthvalue = 400;
 
